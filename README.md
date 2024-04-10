@@ -30,35 +30,6 @@ You can install these libraries via pip:
 ```
 pip install speechrecognition pyttsx3 pywhatkit wikipedia pyjokes
 ```
-
-## Usage
-
-1. Clone the repository to your local machine:
-
-```
-git clone https://github.com/yourusername/free-alexa.git
-```
-
-2. Navigate to the project directory:
-
-```
-cd free-alexa
-```
-
-3. Run the Python script:
-
-```
-python voice_assistant.py
-```
-
-4. Once the program is running, interact with it by speaking commands prefixed with "Alexa". For example:
-   - "Alexa, play songname"
-   - "Alexa, what is the time?"
-   - "Alexa, tell me about Python"
-   - "Alexa, tell me a joke"
-
-5. Enjoy your personal voice assistant experience!
-
 ## Note
 
 - This is a simple voice assistant application intended for educational and entertainment purposes.
